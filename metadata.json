@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GK Organic Farming",
+  "description": "A comprehensive digital ecosystem for organic farmers featuring AI-powered pest diagnostics, blockchain transparency, and a direct-to-consumer marketplace.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
